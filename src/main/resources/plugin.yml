@@ -1,0 +1,6 @@
+name: VexctyAPI
+version: '${project.version}'
+main: com.moonsowrkshop.vexctyapi.VexctyAPI
+authors: [ Moonsworkshop ]
+description: Vexcty API for public and private use
+website: github.com/MOONSWORKSHOPLLC
